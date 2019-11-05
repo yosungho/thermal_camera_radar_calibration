@@ -1,7 +1,7 @@
 # Extrinsic Calibration Tool of Radar and Depth image 
-In this repository, there is a simple Matlab source code (lsqnonlin example) used in the extrinsic calibration between the depth image and radar data. \
-This allows you to find optimized extrinsic camera parameters minimizing distances between N numbers of the minimum, maximum, and median values of each radar points and depth image, and you may easily extend it for your further work.
-
+In this repository, a simple Matlab source code (lsqnonlin example) is presented for the extrinsic calibration between the depth image and radar data. \
+This code allows you to find extrinsic camera parameters minimizing distances between N numbers of the minimum, maximum, and median values of each radar points and depth image, and you may easily extend it for your further work.
+\
 \
 \
 Example Result: \
